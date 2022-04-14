@@ -1,0 +1,19 @@
+/*
+
+Excel Bike Sales Dashboard Project
+
+Dataset: Bike Buyers data
+
+\*
+
+Skills used: 
+
+-- Data Cleaning: Removing Duplicate values, Find and Replace, Create a new column, etc. 
+
+-- If Statement and Nested If Statement
+
+-- Creating Pivot Table
+
+-- Create Visualizations
+
+-- Building the Dashboard
